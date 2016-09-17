@@ -22,7 +22,7 @@ print(y)
 
 
 # If statements
-x = 1
+x = 2
 if x == 21:
     print("To x einai 21 re malaka")
 x = 2
